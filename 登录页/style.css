@@ -1,0 +1,22 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    background: url(images/bg-image.jpg) no-repeat 0% 0%/100% 100% #EEE;
+}
+
+.container{
+	height: 100%;
+}
+
+.form-signin {
+    max-width: 300px;
+    margin: 18% auto 0;
+}
+
+.form-header {
+    margin-bottom: 20px;
+}
